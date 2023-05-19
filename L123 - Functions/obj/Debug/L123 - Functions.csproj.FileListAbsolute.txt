@@ -1,0 +1,8 @@
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L123 - Functions\bin\Debug\L123 - Functions.exe.config
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L123 - Functions\bin\Debug\L123 - Functions.exe
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L123 - Functions\bin\Debug\L123 - Functions.pdb
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L123 - Functions\obj\Debug\L123 - Functions.csproj.AssemblyReference.cache
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L123 - Functions\obj\Debug\L123 - Functions.csproj.SuggestedBindingRedirects.cache
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L123 - Functions\obj\Debug\L123 - Functions.csproj.CoreCompileInputs.cache
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L123 - Functions\obj\Debug\L123 - Functions.exe
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L123 - Functions\obj\Debug\L123 - Functions.pdb

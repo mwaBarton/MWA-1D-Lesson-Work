@@ -1,0 +1,8 @@
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L116 - Arrays\bin\Debug\L116 - Arrays.exe.config
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L116 - Arrays\bin\Debug\L116 - Arrays.exe
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L116 - Arrays\bin\Debug\L116 - Arrays.pdb
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L116 - Arrays\obj\Debug\L116 - Arrays.csproj.AssemblyReference.cache
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L116 - Arrays\obj\Debug\L116 - Arrays.csproj.SuggestedBindingRedirects.cache
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L116 - Arrays\obj\Debug\L116 - Arrays.csproj.CoreCompileInputs.cache
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L116 - Arrays\obj\Debug\L116 - Arrays.exe
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L116 - Arrays\obj\Debug\L116 - Arrays.pdb

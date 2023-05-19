@@ -1,0 +1,8 @@
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L173 - Binary Trees\bin\Debug\L173 - Binary Trees.exe.config
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L173 - Binary Trees\bin\Debug\L173 - Binary Trees.exe
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L173 - Binary Trees\bin\Debug\L173 - Binary Trees.pdb
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L173 - Binary Trees\obj\Debug\L173 - Binary Trees.csproj.AssemblyReference.cache
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L173 - Binary Trees\obj\Debug\L173 - Binary Trees.csproj.SuggestedBindingRedirects.cache
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L173 - Binary Trees\obj\Debug\L173 - Binary Trees.csproj.CoreCompileInputs.cache
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L173 - Binary Trees\obj\Debug\L173 - Binary Trees.exe
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L173 - Binary Trees\obj\Debug\L173 - Binary Trees.pdb

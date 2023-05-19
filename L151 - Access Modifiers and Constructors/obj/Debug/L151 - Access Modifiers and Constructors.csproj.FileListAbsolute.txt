@@ -1,0 +1,8 @@
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L151 - Access Modifiers and Constructors\bin\Debug\L151 - Access Modifiers and Constructors.exe.config
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L151 - Access Modifiers and Constructors\bin\Debug\L151 - Access Modifiers and Constructors.exe
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L151 - Access Modifiers and Constructors\bin\Debug\L151 - Access Modifiers and Constructors.pdb
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L151 - Access Modifiers and Constructors\obj\Debug\L151 - Access Modifiers and Constructors.csproj.AssemblyReference.cache
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L151 - Access Modifiers and Constructors\obj\Debug\L151 - Access Modifiers and Constructors.csproj.SuggestedBindingRedirects.cache
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L151 - Access Modifiers and Constructors\obj\Debug\L151 - Access Modifiers and Constructors.csproj.CoreCompileInputs.cache
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L151 - Access Modifiers and Constructors\obj\Debug\L151 - Access Modifiers and Constructors.exe
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L151 - Access Modifiers and Constructors\obj\Debug\L151 - Access Modifiers and Constructors.pdb

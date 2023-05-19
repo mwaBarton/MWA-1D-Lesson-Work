@@ -1,0 +1,8 @@
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L164 - Abstract Classes and Methods\bin\Debug\L164 - Abstract Classes and Methods.exe.config
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L164 - Abstract Classes and Methods\bin\Debug\L164 - Abstract Classes and Methods.exe
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L164 - Abstract Classes and Methods\bin\Debug\L164 - Abstract Classes and Methods.pdb
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L164 - Abstract Classes and Methods\obj\Debug\L164 - Abstract Classes and Methods.csproj.AssemblyReference.cache
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L164 - Abstract Classes and Methods\obj\Debug\L164 - Abstract Classes and Methods.csproj.SuggestedBindingRedirects.cache
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L164 - Abstract Classes and Methods\obj\Debug\L164 - Abstract Classes and Methods.csproj.CoreCompileInputs.cache
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L164 - Abstract Classes and Methods\obj\Debug\L164 - Abstract Classes and Methods.exe
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L164 - Abstract Classes and Methods\obj\Debug\L164 - Abstract Classes and Methods.pdb

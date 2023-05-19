@@ -1,0 +1,6 @@
+Hello.
+
+This is your text file speaking.
+How are you today?
+
+I'm a bit warm.

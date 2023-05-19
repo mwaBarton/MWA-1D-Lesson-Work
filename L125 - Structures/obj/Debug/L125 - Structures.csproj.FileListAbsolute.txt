@@ -1,0 +1,8 @@
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L125 - Structures\bin\Debug\L125 - Structures.exe.config
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L125 - Structures\bin\Debug\L125 - Structures.exe
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L125 - Structures\bin\Debug\L125 - Structures.pdb
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L125 - Structures\obj\Debug\L125 - Structures.csproj.AssemblyReference.cache
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L125 - Structures\obj\Debug\L125 - Structures.csproj.SuggestedBindingRedirects.cache
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L125 - Structures\obj\Debug\L125 - Structures.csproj.CoreCompileInputs.cache
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L125 - Structures\obj\Debug\L125 - Structures.exe
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L125 - Structures\obj\Debug\L125 - Structures.pdb

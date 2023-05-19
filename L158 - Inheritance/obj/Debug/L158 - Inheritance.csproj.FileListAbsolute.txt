@@ -1,0 +1,8 @@
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L158 - Inheritance\bin\Debug\L158 - Inheritance.exe.config
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L158 - Inheritance\bin\Debug\L158 - Inheritance.exe
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L158 - Inheritance\bin\Debug\L158 - Inheritance.pdb
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L158 - Inheritance\obj\Debug\L158 - Inheritance.csproj.AssemblyReference.cache
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L158 - Inheritance\obj\Debug\L158 - Inheritance.csproj.SuggestedBindingRedirects.cache
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L158 - Inheritance\obj\Debug\L158 - Inheritance.csproj.CoreCompileInputs.cache
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L158 - Inheritance\obj\Debug\L158 - Inheritance.exe
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L158 - Inheritance\obj\Debug\L158 - Inheritance.pdb

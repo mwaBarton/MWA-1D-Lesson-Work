@@ -1,0 +1,8 @@
+\\titan\home\Staff\MWA\Visual Studio 2022\Projects\MWA 1D\L100 - Intro\bin\Debug\L100 - Intro.exe.config
+\\titan\home\Staff\MWA\Visual Studio 2022\Projects\MWA 1D\L100 - Intro\bin\Debug\L100 - Intro.exe
+\\titan\home\Staff\MWA\Visual Studio 2022\Projects\MWA 1D\L100 - Intro\bin\Debug\L100 - Intro.pdb
+\\titan\home\Staff\MWA\Visual Studio 2022\Projects\MWA 1D\L100 - Intro\obj\Debug\L100 - Intro.csproj.AssemblyReference.cache
+\\titan\home\Staff\MWA\Visual Studio 2022\Projects\MWA 1D\L100 - Intro\obj\Debug\L100 - Intro.csproj.SuggestedBindingRedirects.cache
+\\titan\home\Staff\MWA\Visual Studio 2022\Projects\MWA 1D\L100 - Intro\obj\Debug\L100 - Intro.csproj.CoreCompileInputs.cache
+\\titan\home\Staff\MWA\Visual Studio 2022\Projects\MWA 1D\L100 - Intro\obj\Debug\L100 - Intro.exe
+\\titan\home\Staff\MWA\Visual Studio 2022\Projects\MWA 1D\L100 - Intro\obj\Debug\L100 - Intro.pdb

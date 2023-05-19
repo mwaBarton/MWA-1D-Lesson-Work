@@ -1,0 +1,8 @@
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L114 - Built-in functions\bin\Debug\L114 - Built-in functions.exe.config
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L114 - Built-in functions\bin\Debug\L114 - Built-in functions.exe
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L114 - Built-in functions\bin\Debug\L114 - Built-in functions.pdb
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L114 - Built-in functions\obj\Debug\L114 - Built-in functions.csproj.AssemblyReference.cache
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L114 - Built-in functions\obj\Debug\L114 - Built-in functions.csproj.SuggestedBindingRedirects.cache
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L114 - Built-in functions\obj\Debug\L114 - Built-in functions.csproj.CoreCompileInputs.cache
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L114 - Built-in functions\obj\Debug\L114 - Built-in functions.exe
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L114 - Built-in functions\obj\Debug\L114 - Built-in functions.pdb

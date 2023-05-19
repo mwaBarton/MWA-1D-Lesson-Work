@@ -1,0 +1,8 @@
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L159 - Subtype Polymorphism\bin\Debug\L159 - Subtype Polymorphism.exe.config
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L159 - Subtype Polymorphism\bin\Debug\L159 - Subtype Polymorphism.exe
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L159 - Subtype Polymorphism\bin\Debug\L159 - Subtype Polymorphism.pdb
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L159 - Subtype Polymorphism\obj\Debug\L159 - Subtype Polymorphism.csproj.AssemblyReference.cache
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L159 - Subtype Polymorphism\obj\Debug\L159 - Subtype Polymorphism.csproj.SuggestedBindingRedirects.cache
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L159 - Subtype Polymorphism\obj\Debug\L159 - Subtype Polymorphism.csproj.CoreCompileInputs.cache
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L159 - Subtype Polymorphism\obj\Debug\L159 - Subtype Polymorphism.exe
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L159 - Subtype Polymorphism\obj\Debug\L159 - Subtype Polymorphism.pdb

@@ -1,0 +1,8 @@
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L134 - Binary Files\bin\Debug\L134 - Binary Files.exe.config
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L134 - Binary Files\bin\Debug\L134 - Binary Files.exe
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L134 - Binary Files\bin\Debug\L134 - Binary Files.pdb
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L134 - Binary Files\obj\Debug\L134 - Binary Files.csproj.AssemblyReference.cache
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L134 - Binary Files\obj\Debug\L134 - Binary Files.csproj.SuggestedBindingRedirects.cache
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L134 - Binary Files\obj\Debug\L134 - Binary Files.csproj.CoreCompileInputs.cache
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L134 - Binary Files\obj\Debug\L134 - Binary Files.exe
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L134 - Binary Files\obj\Debug\L134 - Binary Files.pdb

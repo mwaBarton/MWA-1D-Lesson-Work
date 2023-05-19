@@ -1,0 +1,8 @@
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L136 - Exceptions\bin\Debug\L136 - Exceptions.exe.config
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L136 - Exceptions\bin\Debug\L136 - Exceptions.exe
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L136 - Exceptions\bin\Debug\L136 - Exceptions.pdb
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L136 - Exceptions\obj\Debug\L136 - Exceptions.csproj.AssemblyReference.cache
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L136 - Exceptions\obj\Debug\L136 - Exceptions.csproj.SuggestedBindingRedirects.cache
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L136 - Exceptions\obj\Debug\L136 - Exceptions.csproj.CoreCompileInputs.cache
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L136 - Exceptions\obj\Debug\L136 - Exceptions.exe
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L136 - Exceptions\obj\Debug\L136 - Exceptions.pdb

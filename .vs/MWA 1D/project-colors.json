@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "668c9b69-b757-41ac-9c8d-498e00448219": {
+      "ProjectGuid": "668c9b69-b757-41ac-9c8d-498e00448219",
+      "DisplayName": "L100 - Intro",
+      "ColorIndex": 0
+    },
+    "b8bbbb38-90c3-43e1-9572-6c676370d2ce": {
+      "ProjectGuid": "b8bbbb38-90c3-43e1-9572-6c676370d2ce",
+      "DisplayName": "L101 - If",
+      "ColorIndex": 1
+    },
+    "9cefbf8e-f30b-48ae-bc68-04778e74ff73": {
+      "ProjectGuid": "9cefbf8e-f30b-48ae-bc68-04778e74ff73",
+      "DisplayName": "L104 - Switch",
+      "ColorIndex": 2
+    },
+    "a77e6a69-f978-477f-af3a-25d7ad6d6c2a": {
+      "ProjectGuid": "a77e6a69-f978-477f-af3a-25d7ad6d6c2a",
+      "DisplayName": "L105 - For loops",
+      "ColorIndex": 3
+    },
+    "1cd35085-a2f8-4abb-a602-a2903c8f1b5c": {
+      "ProjectGuid": "1cd35085-a2f8-4abb-a602-a2903c8f1b5c",
+      "DisplayName": "L111 - Subroutines",
+      "ColorIndex": 4
+    },
+    "70848657-7fa5-419a-9cea-4973ac670eb1": {
+      "ProjectGuid": "70848657-7fa5-419a-9cea-4973ac670eb1",
+      "DisplayName": "L112 - Subroutines with parameters",
+      "ColorIndex": 5
+    },
+    "517a8171-4bd9-4043-ba81-39172a820c83": {
+      "ProjectGuid": "517a8171-4bd9-4043-ba81-39172a820c83",
+      "DisplayName": "L114 - Built-in functions",
+      "ColorIndex": 6
+    },
+    "80a90a18-0988-48b0-82cb-0d9d635e8f9a": {
+      "ProjectGuid": "80a90a18-0988-48b0-82cb-0d9d635e8f9a",
+      "DisplayName": "L116 - Arrays",
+      "ColorIndex": 7
+    },
+    "195508fe-9280-474e-88ee-3babe8101985": {
+      "ProjectGuid": "195508fe-9280-474e-88ee-3babe8101985",
+      "DisplayName": "L117 - Parallel Arrays",
+      "ColorIndex": 8
+    },
+    "06f1c331-9d82-4204-a121-c293dcc9f7be": {
+      "ProjectGuid": "06f1c331-9d82-4204-a121-c293dcc9f7be",
+      "DisplayName": "L118 - Call Stack, Lists",
+      "ColorIndex": 9
+    },
+    "48b90ef1-8734-4cb2-959e-b831173cb9a4": {
+      "ProjectGuid": "48b90ef1-8734-4cb2-959e-b831173cb9a4",
+      "DisplayName": "L123 - Functions",
+      "ColorIndex": 10
+    },
+    "d5f53b61-7567-4ae5-9813-005ff091c93d": {
+      "ProjectGuid": "d5f53b61-7567-4ae5-9813-005ff091c93d",
+      "DisplayName": "L125 - Structures",
+      "ColorIndex": 11
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "50c027a5-e5b7-4399-a339-71e945738cba": {
+      "ProjectGuid": "50c027a5-e5b7-4399-a339-71e945738cba",
+      "DisplayName": "L125 - Reading Text Files",
+      "ColorIndex": 12
+    },
+    "0b006fc4-f3cd-48df-8500-f04d3fa850e2": {
+      "ProjectGuid": "0b006fc4-f3cd-48df-8500-f04d3fa850e2",
+      "DisplayName": "L126 - Writing Text Files",
+      "ColorIndex": 13
+    },
+    "d7878d9f-ca39-446d-9927-ae088feb51c0": {
+      "ProjectGuid": "d7878d9f-ca39-446d-9927-ae088feb51c0",
+      "DisplayName": "L128 - Ref",
+      "ColorIndex": 14
+    },
+    "b2a5d19a-6657-43f4-b707-080829fef6b1": {
+      "ProjectGuid": "b2a5d19a-6657-43f4-b707-080829fef6b1",
+      "DisplayName": "L132 - Arrays of Structures",
+      "ColorIndex": 15
+    },
+    "39dff592-618e-447c-b070-b1067f49a3c0": {
+      "ProjectGuid": "39dff592-618e-447c-b070-b1067f49a3c0",
+      "DisplayName": "L134 - Binary Files",
+      "ColorIndex": 0
+    },
+    "fa244e61-38c1-432b-8d15-3d80e0a006ef": {
+      "ProjectGuid": "fa244e61-38c1-432b-8d15-3d80e0a006ef",
+      "DisplayName": "L136 - Exceptions",
+      "ColorIndex": 1
+    },
+    "46dcd15a-1e07-4ab3-bac6-c7cc9a1962ec": {
+      "ProjectGuid": "46dcd15a-1e07-4ab3-bac6-c7cc9a1962ec",
+      "DisplayName": "L146 - Warships",
+      "ColorIndex": 2
+    },
+    "f1a49cc6-d1f9-4fb3-91f0-d83ac15485e5": {
+      "ProjectGuid": "f1a49cc6-d1f9-4fb3-91f0-d83ac15485e5",
+      "DisplayName": "L150 - Classes and Objects",
+      "ColorIndex": 3
+    },
+    "e37975d4-19ca-4bd4-a155-adf5a07d6614": {
+      "ProjectGuid": "e37975d4-19ca-4bd4-a155-adf5a07d6614",
+      "DisplayName": "L151 - Access Modifiers and Constructors",
+      "ColorIndex": 4
+    },
+    "6cc6255d-86df-43cb-b24d-8cf6433734b0": {
+      "ProjectGuid": "6cc6255d-86df-43cb-b24d-8cf6433734b0",
+      "DisplayName": "L153 - Static",
+      "ColorIndex": 5
+    },
+    "db6201f7-d547-42fc-8de2-da3456d479f3": {
+      "ProjectGuid": "db6201f7-d547-42fc-8de2-da3456d479f3",
+      "DisplayName": "L158 - Inheritance",
+      "ColorIndex": 6
+    },
+    "561f8c0f-d7d2-4c41-b068-e2af7c26b3bb": {
+      "ProjectGuid": "561f8c0f-d7d2-4c41-b068-e2af7c26b3bb",
+      "DisplayName": "L160 - HogFocus",
+      "ColorIndex": 7
+    },
+    "f2c936c7-e10e-451b-a792-9fa7261d5d1a": {
+      "ProjectGuid": "f2c936c7-e10e-451b-a792-9fa7261d5d1a",
+      "DisplayName": "L159 - Subtype Polymorphism",
+      "ColorIndex": 8
+    },
+    "0f67c445-bc1c-4631-a67f-235ece591f07": {
+      "ProjectGuid": "0f67c445-bc1c-4631-a67f-235ece591f07",
+      "DisplayName": "L164 - Abstract Classes and Methods",
+      "ColorIndex": 9
+    },
+    "34a1e35a-5901-4ee3-b467-2a68e1625407": {
+      "ProjectGuid": "34a1e35a-5901-4ee3-b467-2a68e1625407",
+      "DisplayName": "L165 - Interfaces",
+      "ColorIndex": 10
+    },
+    "0f415468-02f3-4cf7-8fd9-41fd52cb6a3f": {
+      "ProjectGuid": "0f415468-02f3-4cf7-8fd9-41fd52cb6a3f",
+      "DisplayName": "L173 - Binary Trees",
+      "ColorIndex": 11
+    },
+    "48d2b23c-f720-4ecb-b9d1-d3d342a8a962": {
+      "ProjectGuid": "48d2b23c-f720-4ecb-b9d1-d3d342a8a962",
+      "DisplayName": "L175 - Dictionaries",
+      "ColorIndex": 12
+    }
+  },
+  "NextColorIndex": 13
+}

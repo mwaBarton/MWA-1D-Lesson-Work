@@ -1,0 +1,8 @@
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L111 - Subroutines\bin\Debug\L111 - Subroutines.exe.config
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L111 - Subroutines\bin\Debug\L111 - Subroutines.exe
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L111 - Subroutines\bin\Debug\L111 - Subroutines.pdb
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L111 - Subroutines\obj\Debug\L111 - Subroutines.csproj.AssemblyReference.cache
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L111 - Subroutines\obj\Debug\L111 - Subroutines.csproj.SuggestedBindingRedirects.cache
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L111 - Subroutines\obj\Debug\L111 - Subroutines.csproj.CoreCompileInputs.cache
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L111 - Subroutines\obj\Debug\L111 - Subroutines.exe
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L111 - Subroutines\obj\Debug\L111 - Subroutines.pdb

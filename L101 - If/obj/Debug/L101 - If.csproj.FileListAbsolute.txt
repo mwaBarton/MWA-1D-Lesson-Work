@@ -1,0 +1,8 @@
+\\titan\home\Staff\MWA\Visual Studio 2022\Projects\MWA 1D\L101 - If\bin\Debug\L101 - If.exe.config
+\\titan\home\Staff\MWA\Visual Studio 2022\Projects\MWA 1D\L101 - If\bin\Debug\L101 - If.exe
+\\titan\home\Staff\MWA\Visual Studio 2022\Projects\MWA 1D\L101 - If\bin\Debug\L101 - If.pdb
+\\titan\home\Staff\MWA\Visual Studio 2022\Projects\MWA 1D\L101 - If\obj\Debug\L101 - If.csproj.AssemblyReference.cache
+\\titan\home\Staff\MWA\Visual Studio 2022\Projects\MWA 1D\L101 - If\obj\Debug\L101 - If.csproj.SuggestedBindingRedirects.cache
+\\titan\home\Staff\MWA\Visual Studio 2022\Projects\MWA 1D\L101 - If\obj\Debug\L101 - If.csproj.CoreCompileInputs.cache
+\\titan\home\Staff\MWA\Visual Studio 2022\Projects\MWA 1D\L101 - If\obj\Debug\L101 - If.exe
+\\titan\home\Staff\MWA\Visual Studio 2022\Projects\MWA 1D\L101 - If\obj\Debug\L101 - If.pdb

@@ -1,0 +1,8 @@
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L126 - Writing Text Files\bin\Debug\L126 - Writing Text Files.exe.config
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L126 - Writing Text Files\bin\Debug\L126 - Writing Text Files.exe
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L126 - Writing Text Files\bin\Debug\L126 - Writing Text Files.pdb
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L126 - Writing Text Files\obj\Debug\L126 - Writing Text Files.csproj.AssemblyReference.cache
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L126 - Writing Text Files\obj\Debug\L126 - Writing Text Files.csproj.SuggestedBindingRedirects.cache
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L126 - Writing Text Files\obj\Debug\L126 - Writing Text Files.csproj.CoreCompileInputs.cache
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L126 - Writing Text Files\obj\Debug\L126 - Writing Text Files.exe
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L126 - Writing Text Files\obj\Debug\L126 - Writing Text Files.pdb

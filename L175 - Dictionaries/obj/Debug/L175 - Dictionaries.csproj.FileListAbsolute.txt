@@ -1,0 +1,8 @@
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L175 - Dictionaries\bin\Debug\L175 - Dictionaries.exe.config
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L175 - Dictionaries\bin\Debug\L175 - Dictionaries.exe
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L175 - Dictionaries\bin\Debug\L175 - Dictionaries.pdb
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L175 - Dictionaries\obj\Debug\L175 - Dictionaries.csproj.AssemblyReference.cache
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L175 - Dictionaries\obj\Debug\L175 - Dictionaries.csproj.SuggestedBindingRedirects.cache
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L175 - Dictionaries\obj\Debug\L175 - Dictionaries.csproj.CoreCompileInputs.cache
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L175 - Dictionaries\obj\Debug\L175 - Dictionaries.exe
+\\titan\home\staff\MWA\Visual Studio 2022\Projects\MWA 1D\L175 - Dictionaries\obj\Debug\L175 - Dictionaries.pdb
