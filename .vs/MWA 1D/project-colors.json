@@ -150,7 +150,12 @@
       "ProjectGuid": "48d2b23c-f720-4ecb-b9d1-d3d342a8a962",
       "DisplayName": "L175 - Dictionaries",
       "ColorIndex": 12
+    },
+    "be337e05-3722-4fa2-abc1-1957a4c6aea8": {
+      "ProjectGuid": "be337e05-3722-4fa2-abc1-1957a4c6aea8",
+      "DisplayName": "GraphicsTest",
+      "ColorIndex": 13
     }
   },
-  "NextColorIndex": 13
+  "NextColorIndex": 14
 }
