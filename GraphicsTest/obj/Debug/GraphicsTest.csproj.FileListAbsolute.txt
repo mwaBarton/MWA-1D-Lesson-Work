@@ -1,0 +1,11 @@
+\\titan\home\Staff\MWA\GitHub\MWA 1D\GraphicsTest\bin\Debug\GraphicsTest.exe.config
+\\titan\home\Staff\MWA\GitHub\MWA 1D\GraphicsTest\bin\Debug\GraphicsTest.exe
+\\titan\home\Staff\MWA\GitHub\MWA 1D\GraphicsTest\bin\Debug\GraphicsTest.pdb
+\\titan\home\Staff\MWA\GitHub\MWA 1D\GraphicsTest\obj\Debug\GraphicsTest.csproj.AssemblyReference.cache
+\\titan\home\Staff\MWA\GitHub\MWA 1D\GraphicsTest\obj\Debug\GraphicsTest.csproj.SuggestedBindingRedirects.cache
+\\titan\home\Staff\MWA\GitHub\MWA 1D\GraphicsTest\obj\Debug\GraphicsTest.Form1.resources
+\\titan\home\Staff\MWA\GitHub\MWA 1D\GraphicsTest\obj\Debug\GraphicsTest.Properties.Resources.resources
+\\titan\home\Staff\MWA\GitHub\MWA 1D\GraphicsTest\obj\Debug\GraphicsTest.csproj.GenerateResource.cache
+\\titan\home\Staff\MWA\GitHub\MWA 1D\GraphicsTest\obj\Debug\GraphicsTest.csproj.CoreCompileInputs.cache
+\\titan\home\Staff\MWA\GitHub\MWA 1D\GraphicsTest\obj\Debug\GraphicsTest.exe
+\\titan\home\Staff\MWA\GitHub\MWA 1D\GraphicsTest\obj\Debug\GraphicsTest.pdb

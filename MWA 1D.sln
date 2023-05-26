@@ -61,6 +61,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L173 - Binary Trees", "L173
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L175 - Dictionaries", "L175 - Dictionaries\L175 - Dictionaries.csproj", "{48D2B23C-F720-4ECB-B9D1-D3D342A8A962}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphicsTest", "GraphicsTest\GraphicsTest.csproj", "{BE337E05-3722-4FA2-ABC1-1957A4C6AEA8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +185,10 @@ Global
 		{48D2B23C-F720-4ECB-B9D1-D3D342A8A962}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{48D2B23C-F720-4ECB-B9D1-D3D342A8A962}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{48D2B23C-F720-4ECB-B9D1-D3D342A8A962}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE337E05-3722-4FA2-ABC1-1957A4C6AEA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE337E05-3722-4FA2-ABC1-1957A4C6AEA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE337E05-3722-4FA2-ABC1-1957A4C6AEA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE337E05-3722-4FA2-ABC1-1957A4C6AEA8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
