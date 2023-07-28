@@ -14,3 +14,11 @@
 \\titan\home\staff\MWA\GitHub\MWA 1D\L175 - Dictionaries\obj\Debug\L175 - Dictionaries.csproj.CoreCompileInputs.cache
 \\titan\home\staff\MWA\GitHub\MWA 1D\L175 - Dictionaries\obj\Debug\L175 - Dictionaries.exe
 \\titan\home\staff\MWA\GitHub\MWA 1D\L175 - Dictionaries\obj\Debug\L175 - Dictionaries.pdb
+C:\Users\MWA\Source\Repos\mwaBarton\MWA-1D-Lesson-Work\L175 - Dictionaries\bin\Debug\L175 - Dictionaries.exe.config
+C:\Users\MWA\Source\Repos\mwaBarton\MWA-1D-Lesson-Work\L175 - Dictionaries\bin\Debug\L175 - Dictionaries.exe
+C:\Users\MWA\Source\Repos\mwaBarton\MWA-1D-Lesson-Work\L175 - Dictionaries\bin\Debug\L175 - Dictionaries.pdb
+C:\Users\MWA\Source\Repos\mwaBarton\MWA-1D-Lesson-Work\L175 - Dictionaries\obj\Debug\L175 - Dictionaries.csproj.AssemblyReference.cache
+C:\Users\MWA\Source\Repos\mwaBarton\MWA-1D-Lesson-Work\L175 - Dictionaries\obj\Debug\L175 - Dictionaries.csproj.SuggestedBindingRedirects.cache
+C:\Users\MWA\Source\Repos\mwaBarton\MWA-1D-Lesson-Work\L175 - Dictionaries\obj\Debug\L175 - Dictionaries.csproj.CoreCompileInputs.cache
+C:\Users\MWA\Source\Repos\mwaBarton\MWA-1D-Lesson-Work\L175 - Dictionaries\obj\Debug\L175 - Dictionaries.exe
+C:\Users\MWA\Source\Repos\mwaBarton\MWA-1D-Lesson-Work\L175 - Dictionaries\obj\Debug\L175 - Dictionaries.pdb

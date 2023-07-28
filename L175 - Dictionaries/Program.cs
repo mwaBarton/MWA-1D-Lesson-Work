@@ -34,7 +34,8 @@ namespace L175___Dictionaries
                 Console.WriteLine($"{word} : {wordCounts[word]}");
             }
 
-            Console.ReadKey();
+            Console.ReadKey(); 
+
         }
     }
 }
